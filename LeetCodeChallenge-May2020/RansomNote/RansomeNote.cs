@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LeetCodeChallenge_May2020
 {
-    public class RansomeNote
+    public class RansomNote
     {
         public static void Test()
         {
