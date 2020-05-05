@@ -7,7 +7,8 @@ namespace LeetCodeChallenge_May2020
         static void Main(string[] args)
         {
             //JewelsInStones.Test();
-            RansomeNote.Test();
+            //RansomeNote.Test();
+            NumberComplement.Test();
         }
     }
 }
