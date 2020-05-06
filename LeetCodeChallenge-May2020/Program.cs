@@ -8,7 +8,8 @@ namespace LeetCodeChallenge_May2020
         {
             //JewelsInStones.Test();
             //RansomeNote.Test();
-            NumberComplement.Test();
+            //NumberComplement.Test();
+            FirstUniqueCharInaString.Test();
         }
     }
 }
