@@ -10,7 +10,8 @@ namespace LeetCodeChallenge_May2020
             //RansomeNote.Test();
             //NumberComplement.Test();
             //FirstUniqueCharInaString.Test();
-            MajorityElement.Test();
+            //MajorityElement.Test();
+            CheckIsaStraightLine.Test();
         }
     }
 }
