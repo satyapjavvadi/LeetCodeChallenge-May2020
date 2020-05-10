@@ -11,7 +11,8 @@ namespace LeetCodeChallenge_May2020
             //NumberComplement.Test();
             //FirstUniqueCharInaString.Test();
             //MajorityElement.Test();
-            CheckIsaStraightLine.Test();
+            //CheckIsaStraightLine.Test();
+            ValidPerfectSquare.Test();
         }
     }
 }
