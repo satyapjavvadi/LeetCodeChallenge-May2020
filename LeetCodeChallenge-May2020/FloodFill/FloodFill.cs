@@ -5,7 +5,7 @@ using System.Text;
 namespace LeetCodeChallenge_May2020
 {
     class FloodFill
-    {
+    {        
         public static void Test()
         {
             int x = 1;
@@ -17,7 +17,26 @@ namespace LeetCodeChallenge_May2020
                new int[] {1, 1, 0},
                new int[] {1, 0, 1}
             };
+
+            for(int i = 0; i < image.Length; i++)
+            {
+                for(int j = 0; j < image[0].Length; j++)
+                {
+                    Console.Write(image[i][j] +" ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
             FloodFilled(image, x, y, newColor);
+
+            for (int i = 0; i < image.Length; i++)
+            {
+                for (int j = 0; j < image[0].Length; j++)
+                {
+                    Console.Write(image[i][j]+ " ");
+                }
+                Console.WriteLine();
+            }
         }
         public static int[][] FloodFilled(int[][] image, int sr, int sc, int newColor)
         {
