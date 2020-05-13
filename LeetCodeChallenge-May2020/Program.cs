@@ -13,7 +13,8 @@ namespace LeetCodeChallenge_May2020
             //MajorityElement.Test();
             //CheckIsaStraightLine.Test();
             //ValidPerfectSquare.Test();
-            FloodFill.Test();
+            //FloodFill.Test();
+            SingleElement.Test();
         }
     }
 }
