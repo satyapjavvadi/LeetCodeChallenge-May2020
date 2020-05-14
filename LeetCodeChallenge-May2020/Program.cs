@@ -14,7 +14,8 @@ namespace LeetCodeChallenge_May2020
             //CheckIsaStraightLine.Test();
             //ValidPerfectSquare.Test();
             //FloodFill.Test();
-            SingleElement.Test();
+            //SingleElement.Test();
+            RemoveKdigits.Test();
         }
     }
 }
