@@ -15,7 +15,8 @@ namespace LeetCodeChallenge_May2020
             //ValidPerfectSquare.Test();
             //FloodFill.Test();
             //SingleElement.Test();
-            RemoveKdigits.Test();
+            //RemoveKdigits.Test();
+            Trie.Test();
         }
     }
 }
